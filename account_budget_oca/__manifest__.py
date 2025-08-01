@@ -2,7 +2,9 @@
 
 {
     "name": "Budgets Management",
-    "version": "17.0.1.0.0",
+    "version": "18.0.1.0.0",
+    "development_status": "Beta",            # ‹NEW›
+    "odoo_version": "18.0",                  # ‹NEW›
     "category": "Accounting",
     "license": "LGPL-3",
     "author": "Odoo S.A., Odoo Community Association (OCA)",
